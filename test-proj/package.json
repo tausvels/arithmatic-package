@@ -1,0 +1,14 @@
+{
+  "name": "test-proj",
+  "version": "1.0.0",
+  "description": "testing the simple arithmatic package module that was created",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tausvels",
+  "license": "ISC",
+  "dependencies": {
+    "arithmatic-package": "github:tausvels/arithmatic-package#master"
+  }
+}
